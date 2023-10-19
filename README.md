@@ -2,7 +2,7 @@
 
 ## Lab: Criando um Jogo da memória com Emojis Utilizando Javascript
 
-![Jogo da Memória JavaScript](./screenshot/)
+![Jogo da Memória JavaScript](./screenshot/jogo-memoria.png)
 
 ## Detalhes 
 - Tecnologias: HTML, CSS e JavaScript
